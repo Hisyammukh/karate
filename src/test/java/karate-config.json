@@ -1,0 +1,7 @@
+{
+    "development": {
+        "users": {
+            "baseUrl": "https://jsonplaceholder.typicode.com"
+        }
+    }
+}

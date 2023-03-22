@@ -1,0 +1,11 @@
+{
+    "users": {
+        "users": "#[] user",
+        "user": {
+            "userId": "#number", 
+            "id": "#number",
+            "title": "#string",
+            "body": "#string"
+        }
+    }
+}
